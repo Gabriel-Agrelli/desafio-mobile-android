@@ -11,6 +11,11 @@ allprojects {
         okhttpVersion = '4.10.0'
         glideVersion = '4.14.2'
         coroutinesVersion = '1.6.1'
+        coroutinesTestVersion = '1.6.4'
         lifecycleVersion = '2.5.1'
+        koinVersion = '3.3.2'
+        robolectricVersion = '4.9'
+        mockkVersion = '1.13.4'
+        flowTurbineVersion = '0.12.1'
     }
 }

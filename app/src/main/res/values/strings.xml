@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Marvel Universe</string>
+    <string name="label_character_name">Nome do Personagem</string>
+    <string name="loading_data_error">Ocorreu um erro ao carregar os personagens</string>
 </resources>
