@@ -78,9 +78,6 @@ dependencies {
     // Koin
     implementation "io.insert-koin:koin-android:$koinVersion"
 
-    // Robolectric
-    testImplementation "org.robolectric:robolectric:$robolectricVersion"
-
     // Mockk
     testImplementation "io.mockk:mockk:${mockkVersion}"
 
